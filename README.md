@@ -2,7 +2,9 @@
 
 This repository has a list of the biggest skids in the Minecraft community.
 Make sure to star this repository to show your support.
-
+## meteordev
+- <b>Aliases:</b> Meteor
+- <b>Reason</b>: Begging for mod, spamming threads, nuke threats.  
 ## Ziue
 - <b>Aliases:</b> Devuxious, Remi
 - <b>Reason:</b> This annoying moron tries to call people out for skidding while also doing the same thing.
