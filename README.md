@@ -45,7 +45,7 @@ Make sure to star this repository to show your support.
   - <b>AquaCore (Core):</b> [Proof](https://prnt.sc/hhmYw4kvdzFD)
   - <b>Alley (Frost, Yang):</b> [Proof](https://prnt.sc/YIUAQG0vcwKD)
 - <b>BONUS: |-</b>
-  - <b>Her making a HelloWorld plugin:</b> [Video](https://www.youtube.com/watch?v=Reed8-oCgh4)
+  - <b>Struggles to develop a HelloWorld plugin:</b> [Video](https://www.youtube.com/watch?v=Reed8-oCgh4)
   - <b>Funny:</b> [Proof](https://prnt.sc/tqKlpZMO4VpK)
   - <b>Trusting her with my premade:</b> [Trust?](https://prnt.sc/zk8pSbHQu-TO) | [Threatening to leak](https://prnt.sc/zs6dQ6dxcp_2)
   - <b>Vouchers:</b> [DAM (Discord bot developer)](https://prnt.sc/3KBIjfaCxm7Y) | [Java developer](https://prnt.sc/ijbeai7Pymtv) | [another java developer](https://prnt.sc/BSH9UbDpvkXl) | [another dude](https://prnt.sc/56_yFhER57_n) | [lua & nodejs developer](https://prnt.sc/9F-VgSIi_wcK)
