@@ -30,8 +30,8 @@ Make sure to star this repository to show your support.
  
  ## Savrien
 - <b>Aliases:</b> Elijah, GamingMIDI
-- <b>Reason:</b> Manipluating, Lying, Backstabbing
-- <b>Comment:</b> Fuck you Savrien!
+- <b>Reason:</b> Just to get the word out there.
+- <b>Comment:</b> Love u sav! <3 (no homo)
 - <b>Stuff that's skidded: |-</b>
   - <b>Frost Practice (Practice):</b> [Proof](https://prnt.sc/WcGX6DiZXp5O) | [Proof 2](https://prnt.sc/8NGxQbqiCqqZ) | [Proof 3](https://prnt.sc/fXlUhcnT8Xn3)
   - <b>Holographic Displays (XeChatTags):</b> [Proof](https://prnt.sc/WcGX6DiZXp5O)
