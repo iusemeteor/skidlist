@@ -32,6 +32,8 @@ Make sure to star this repository to show your support.
 - <b>Aliases:</b> Hmody
 - <b>Reason:</b> Called meteor a skid!
 - <b>Comment:</b> Calling me skid for forking windspigot
+- <b>Stuff that's skidded: |-</b>
+- <b>Nothing:</b> Proof: no proof lol
  
  ## Savrien
 - <b>Aliases:</b> Elijah, GamingMIDI
