@@ -23,7 +23,7 @@ Make sure to star this repository to show your support.
 - <b>Dox:</b> [Doxbin](https://doxbin.com/upload/iusemeteormeteordevIsaiahRivera)
 - <b>Stuff that's skidded: |-</b>
   - <b>FoxSpigot (LunarSpigot):</b> Proof: Lunar Hub Premade
-  - <b>WindSpigot (ClubSpigot):</b> [Proof](https://github.com/iusemeteor/ClubSpigot) | [Proof 2](https://prnt.sc/9qv6krOMq9CS)
+  - <b>WindSpigot (ClubSpigot):</b> [Proof](https://github.com/iusemeteor/ClubSpigot)
 
 ## Tdvne
 - <b>Aliases:</b> Michael, Exevity
