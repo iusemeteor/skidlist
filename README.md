@@ -27,6 +27,11 @@ Make sure to star this repository to show your support.
   - <b>FateHubCore (eHub):</b> [Proof](https://prnt.sc/3Rf5qMikp70L)
   - <b>AquaCore (eCore):</b> [Proof](https://prnt.sc/sm903HnehgAX)
   - <b>StrikePractice (ePractice):</b> [Proof](https://prnt.sc/CLd1e5Vcat05)
+
+## Zatrex
+- <b>Aliases:</b> Hmody
+- <b>Reason:</b> Called meteor a skid!
+- <b>Comment:</b> Calling me skid for forking windspigot
  
  ## Savrien
 - <b>Aliases:</b> Elijah, GamingMIDI
