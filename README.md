@@ -15,6 +15,15 @@ Make sure to star this repository to show your support.
 - <b>BONUS: |-</b>
   - <b>Adding ppl to his skidlist for literally no reason:</b> [Proof](https://prnt.sc/ze8x2uXeC524) | [Proof 2](https://prnt.sc/YMvgs5-73oJJ)
   - <b>Reselling Yang Practice:</b> [Proof](https://prnt.sc/WKphFl7NfIyn)
+  - 
+## Meteor
+- <b>Aliases:</b> iusemeteor, Isaiah
+- <b>Reason:</b> This annoying moron tries to call people out for skidding while also doing the same thing.
+- <b>Comment:</b> Skidding plugins and making it as his own also selling hypractice for $15 / making minemen bots premade using esta leak for arenas and the leaked aipractice, faking messages using browser console.
+- <b>Dox:</b> [Doxbin](https://doxbin.com/upload/iusemeteormeteordevIsaiahRivera)
+- <b>Stuff that's skidded: |-</b>
+  - <b>FoxSpigot (LunarSpigot):</b> Proof: Lunar Hub Premade
+  - <b>WindSpigot (ClubSpigot):</b> [Proof](https://github.com/iusemeteor/ClubSpigot) | [Proof 2](https://prnt.sc/9qv6krOMq9CS)
 
 ## Tdvne
 - <b>Aliases:</b> Michael, Exevity
