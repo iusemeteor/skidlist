@@ -9,7 +9,6 @@ Make sure to star this repository to show your support.
 - <b>Comment:</b> In conclusion, I don't know how this guy is still respected in the community. Not only does he skid stuff but also resells it, claiming it as his own. He also releaks content on blackspigot and somehow gets more downloads than the original leaker.
 - <b>Stuff that's skidded: |-</b>
   - <b>Yang Practice (HyPractice):</b> [Proof](https://prnt.sc/UMXiW22sdD-i) | [Proof 2](https://prnt.sc/9qv6krOMq9CS) | [Proof 3](https://prnt.sc/Ie4Upn9wFeWL) | [Proof 4](https://prnt.sc/AKR0sbXh_7xH)
-  - <b>[C# Keyboard Hook - Keys Disabled Question on stackoverflow](https://stackoverflow.com/questions/30674879/c-sharp-keyboard-hook-keys-disabled) (N Word Clicker):</b> [Proof](https://prnt.sc/iX5ubrFFpuJW) | [Proof 2](https://prnt.sc/8Vub_NTYh0C2) (i was able to find skidded code in the only cs file he sent me so just imagine what more is skidded 💀)
   - <b>Tenacity (Athena Client):</b> [Proof](https://prnt.sc/W_jPoL7ssv1k) | [Proof 2](https://prnt.sc/9x2cn9SfZpaX) | [Proof 3](https://prnt.sc/a10ZhR2olCTG) | [Proof 4](https://prnt.sc/djq9-1qvFnrg) | [Proof 5](https://prnt.sc/7llShA_J-gdy) | [Proof 6](https://prnt.sc/OppE1oQOoVoN) | [Proof 7](https://prnt.sc/5-xC3gWq5QzI)
   - <b>AquaCore (cCore):</b> [Proof](https://prnt.sc/PR3-RVn_3dNX) | [Proof 2](https://prnt.sc/OkqKWH3dFt7l) | [Proof 3](https://prnt.sc/XM7Z0IJdVKu1)
   - <b>pSpigot (cSpigot):</b> [Proof](https://prnt.sc/4zzjrXz9mV-y) | [Proof 2](https://prnt.sc/2EV09-3igYFo) | [Proof 3](https://prnt.sc/5u-rEcKyPPAM)
