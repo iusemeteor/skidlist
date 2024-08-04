@@ -16,6 +16,15 @@ Make sure to star this repository to show your support.
 - <b>BONUS: |-</b>
   - <b>Adding ppl to his skidlist for literally no reason:</b> [Proof](https://prnt.sc/ze8x2uXeC524) | [Proof 2](https://prnt.sc/YMvgs5-73oJJ)
   - <b>Reselling Yang Practice:</b> [Proof](https://prnt.sc/WKphFl7NfIyn)
+  - 
+## Meteor
+- <b>Aliases:</b> iusemeteor, Isaiah
+- <b>Reason:</b> This annoying moron tries to call people out for skidding while also doing the same thing.
+- <b>Comment:</b> Skidding plugins and making it as his own also selling hypractice for $15 / making minemen bots premade using esta leak for arenas and the leaked aipractice, faking messages using browser console.
+- <b>Dox:</b> [Doxbin](https://doxbin.com/upload/iusemeteormeteordevIsaiahRivera)
+- <b>Stuff that's skidded: |-</b>
+  - <b>FoxSpigot (LunarSpigot):</b> [Proof: Lunar Hub Premade](https://www.youtube.com/watch?v=KiZd_jyzRf0)
+  - <b>WindSpigot (ClubSpigot):</b> [Proof](https://github.com/iusemeteor/ClubSpigot)
 
 ## Tdvne
 - <b>Aliases:</b> Michael, Exevity
@@ -28,6 +37,11 @@ Make sure to star this repository to show your support.
   - <b>FateHubCore (eHub):</b> [Proof](https://prnt.sc/3Rf5qMikp70L)
   - <b>AquaCore (eCore):</b> [Proof](https://prnt.sc/sm903HnehgAX)
   - <b>StrikePractice (ePractice):</b> [Proof](https://prnt.sc/CLd1e5Vcat05)
+
+## Zatrex
+- <b>Aliases:</b> Hmody
+- <b>Reason:</b> Called meteor a skid!
+- <b>Comment:</b> Calling me skid for forking windspigot
  
  ## Savrien
 - <b>Aliases:</b> Elijah, GamingMIDI
